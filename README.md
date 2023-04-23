@@ -17,7 +17,7 @@ images is a pet peeve of mine. I also really like the GNU logo that was created
 by
 [TanbinIslam43](https://github.com/TanbinIslam43/mydotfiles/tree/main/.doom.d)
 that was recently highlighted by
-[Xenodium](https://xenodium.com/my-emacs-eye-candy/) as part of his splash
+[Xenodium](https://xenodium.com/my-emacs-eye-candy/) as part of their splash
 screen. This image is also as a small png, so I wanted to recreate it as a
 vector graphic so have supplied that here as well.
 
