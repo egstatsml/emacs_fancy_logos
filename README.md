@@ -32,6 +32,14 @@ free. I am probably the furthest thing from a graphic designer with visual
 artistic skills approaching zero, so if anyone wants to improve them please feel
 free to open a PR as well.
 
+### How I made them and how you could edit them
+
+These logos were made in Inkscape by just tracing the XEmacs logo from
+[XEmacs](https://www.xemacs.org/) and the GNU logo using TanbinIslam43's color
+palette. The logos were just traced using bezier curves. If you want to edit
+them or improve them, the SVG files should open in Inkscape where you could
+edit/improve them to your hearts content. Any drama, just let me know.
+
 
 ### My Splash Screen
 
