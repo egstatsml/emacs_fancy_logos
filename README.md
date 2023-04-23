@@ -1,6 +1,7 @@
 # Emacs Fancy Logos
 
-This repo contains just a few Emacs and GNU logos that I have adapted from original sources to vector graphics.
+This repo contains just a few Emacs and GNU logos that I have adapted from
+original sources to vector graphics. Original art by [Luis Fernandes](https://www.ecb.torontomu.ca/~elf/emacs/logo/logo.html).
 
 ![Example of logos](./demo/example.png)
 
