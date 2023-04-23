@@ -2,7 +2,7 @@
 
 This repo contains just a few Emacs and GNU logos that I have adapted from original sources to vector graphics.
 
-![Example of logos][./demo/example.png)
+![Example of logos](./demo/example.png)
 
 ![My splash screen](./demo/splash.png)
 
